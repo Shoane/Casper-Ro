@@ -203,6 +203,7 @@ textarea {
     font: inherit; /* 2 */
 }
 button {
+    min-width: fit-content;
     overflow: visible;
     border: none;
 }
